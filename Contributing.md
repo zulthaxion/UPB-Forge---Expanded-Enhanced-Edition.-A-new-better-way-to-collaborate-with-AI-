@@ -31,10 +31,7 @@ The primary way to contribute at this stage is by using **GitHub Issues** in thi
 *   **Context is Key:** If referring to specific prompts, use their IDs (e.g., `D2-S4.5`). Explain the context in which you were using the prompt.
 *   **Be Respectful:** Adhere to the project's Code of Conduct.
 
-## Pull Requests (Optional - Discuss First)
-
-Given the nature of the project (primarily structured HTML content), direct Pull Requests might be less common than Issues. However, if you have fixed a clear typo, significantly improved documentation, or added well-formatted examples following the existing style, feel free to submit a PR. For **major structural changes or new sections**, please **discuss it in an Issue first** before submitting a PR.
-
+*   
 ## Code of Conduct
 
 Please note that this project is released with a Contributor Code of Conduct (`CODE_OF_CONDUCT.md`). By participating in this project, you agree to abide by its terms. Please report any unacceptable behavior.
