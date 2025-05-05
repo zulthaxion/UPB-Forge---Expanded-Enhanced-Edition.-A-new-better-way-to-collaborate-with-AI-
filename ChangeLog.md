@@ -5,7 +5,7 @@ All notable changes to the UPB Forge framework will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Semantic Versioning (though initial versions are pre-release).
 
-## [1.0.1] - YYYY-MM-DD
+## [1.0.1] - 2025-05-05
 
 ### Added
 
@@ -24,7 +24,3 @@ and this project adheres to Semantic Versioning (though initial versions are pre
 *   **Global System Instructions (GSI):** Revised to v3.1, incorporating explicit "Modular Context Awareness" instructions and refining NLP fallback logic hierarchy.
 *   **Prompt Synopses:** Reviewed and refined many synopses across the Bible for improved clarity and accuracy.
 *   **Section Structure/Flow:** Minor adjustments to section introductions and cross-references for better navigation and coherence.
-
-### Fixed
-
-*   *(Placeholder for any bugs fixed if upgrading from a previous internal version - N/A for first public release)*
