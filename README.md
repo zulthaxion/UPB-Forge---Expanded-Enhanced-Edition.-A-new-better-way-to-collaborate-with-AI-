@@ -1,4 +1,4 @@
-# UPB Forge - Expanded Enhanced Framework. A new better way to collaborate with AI. 
+# UPB Forge - Expanded & Enhanced Framework. A new better way to collaborate with AI. 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) <!-- Optional: Add a license badge if you choose one -->
 
