@@ -31,11 +31,6 @@ The primary way to contribute at this stage is by using **GitHub Issues** in thi
 *   **Context is Key:** If referring to specific prompts, use their IDs (e.g., `D2-S4.5`). Explain the context in which you were using the prompt.
 *   **Be Respectful:** Adhere to the project's Code of Conduct.
 
-*   
-## Code of Conduct
-
-Please note that this project is released with a Contributor Code of Conduct (`CODE_OF_CONDUCT.md`). By participating in this project, you agree to abide by its terms. Please report any unacceptable behavior.
-
----
+---  
 
 Thank you again for your interest in improving the UPB Forge! We look forward to collaborating with you.
