@@ -24,11 +24,6 @@ This version represents a significant overhaul of the Global System Instructions
     - Each entry now explains its function and application, enhancing understanding of prompt intent.
 - **Versioning:** Document title and internal references updated to `v1.1`.
 
-### Added
-- *(If there are features in v1.1 that were **not** present in any form in v1.0.1 or the incremental versions, list them here. For example, if A0-M.3 or Section A6 were entirely new concepts in v1.1 compared to the original v1.0.1 feature set, they would go here. If they were present in v1.0.1 and merely refined in GSI for v1.1, they stay under "Changed" or "Fixed".)*
-  *Example placeholder for genuinely new v1.1 features if any:*
-  * *New XYZ functionality for enhanced collaboration.*
-
 ### Fixed
 - This release rolls up all hotfixes, general improvements, typographical corrections, and minor functional refinements made incrementally since the v1.0.1 release.
 
