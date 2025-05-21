@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3aee958-0759-4c8d-b4d9-304c528a4c7d)# Changelog
+## Changelog
 
 All notable changes to the UPB Forge framework will be documented in this file.
 
